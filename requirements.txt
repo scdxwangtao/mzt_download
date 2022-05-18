@@ -1,0 +1,15 @@
+aiohttp==3.8.1
+aiohttp_socks==0.7.1
+fake_useragent==0.1.11
+lxml==4.8.0
+pandas==1.4.2
+Pillow==9.1.0
+pyppeteer==1.0.2
+pyppeteer_stealth==2.7.3
+python_socks==2.0.3
+pywin32==304
+requests==2.27.1
+urllib3==1.26.9
+win32gui==221.6
+
+fpdf==1.7.2
